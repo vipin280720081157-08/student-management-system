@@ -106,6 +106,14 @@ student-management-system/
     ├── 02_insert_data.sql
     └── 03_queries.sql
 ```
+
+## 🗺️ Entity Relationship Diagram
+
+The following ER diagram shows the database tables and their relationships.
+
+![Student Management System ER Diagram](diagrams/ER_diagram.png)
+
+
 ## ▶️ How to Run
 
 1. Install PostgreSQL.
