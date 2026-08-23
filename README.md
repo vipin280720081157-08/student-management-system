@@ -1,4 +1,3 @@
-````markdown
 # Student Management System
 
 A relational database project built using **PostgreSQL and SQL**.
@@ -106,7 +105,6 @@ student-management-system/
     ├── 01_create_tables.sql
     ├── 02_insert_data.sql
     └── 03_queries.sql
-````
 
 ## ▶️ How to Run
 
@@ -129,7 +127,5 @@ student-management-system/
 ## 👨‍💻 Author
 
 **Vipin T K**
-
-
 ```
-```
+``
