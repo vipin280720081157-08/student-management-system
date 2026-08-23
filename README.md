@@ -105,7 +105,7 @@ student-management-system/
     ├── 01_create_tables.sql
     ├── 02_insert_data.sql
     └── 03_queries.sql
-
+```
 ## ▶️ How to Run
 
 1. Install PostgreSQL.
