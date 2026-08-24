@@ -135,5 +135,3 @@ The following ER diagram shows the database tables and their relationships.
 ## 👨‍💻 Author
 
 **Vipin T K**
-```
-``
